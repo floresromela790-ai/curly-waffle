@@ -1,0 +1,293 @@
+《您的‘点餐’疑问 (FAQ)：关于 S1 的一切坦诚回答》
+
+欢迎来到 Curly Waffle 的“点餐台”！
+
+我们知道，当一份“新菜单”出现时，你总会有很多疑问。这很正常！尤其是在一个充满了“性能参数”和“折腾教程”的世界里，我们的“舒适”理念反而显得有些“另类”。
+
+别担心。我们准备了这份“坦诚的问答”，它将回答你关于 S1 的一切。我们不使用“营销黑话”，我们只说“人话”。
+
+---
+
+### 类别一：“点餐”相关 (关于游戏和体验)
+
+**Q1：我最关心的问题：我如何把游戏（“菜品”）放进 S1 里？这个过程“折腾”吗？**
+
+**A：** 这是我们最引以为豪的答案：**这可能是你体验过的最“不折腾”的方式。**
+
+我们为你省去了一切“配置”的麻烦。你不需要格式化SD卡，不需要建文件夹，不需要懂任何电脑知识。
+
+**“两步走”：**
+1.  **连接：** 用数据线把 S1 连上你的电脑 (Windows / Mac / Linux 都行)。
+2.  **拖放：** S1 会在你的电脑上显示为一个叫 **"My Games" (我的游戏)** 的“魔法U盘”。你只需把你拥有的游戏文件（比如 `.nes`, `.sfc`, `.gba`, `.bin` 等）拖进去。
+
+**—— 结束了 ——**
+
+拔掉数据线。开机。WaffleOS 的“智能管家”会自动识别它们，并为你配上精美的封面。
+
+你不需要“刮削封面”，不需要“设置路径”，不需要“选择模拟器”。**你只负责“拖”，我们负责“一切”。**
+
+**Q2：S1 出厂时“自带”游戏吗？**
+
+**A：** **不，S1 是一台“新鲜出炉”的干净设备。**
+
+出于对版权的尊重，我们不会预装任何我们不拥有的游戏 (ROMs)。S1 是一台“游戏机”，一个让你舒**适地**享受你*自己*收藏的游戏的“终极播放器”。
+
+**Q3：S1 到底能“完美”运行哪些平台？**
+
+**A：** 我们的理念是**“拒绝凑合，只做完美”**。
+
+S1 不是“万金油”，它是“专家”。它被设计用来**“零瑕疵、满帧、完美音效”**地运行 8-bit 到 32-bit 的所有经典平台。
+
+这包括（但不限于）：
+* PlayStation 1 (PS1)
+* Game Boy / Game Boy Color (GB/GBC)
+* Game Boy Advance (GBA)
+* Super Nintendo (SFC / SNES)
+* NES / Famicom (红白机)
+* Sega Genesis / Mega Drive (世嘉MD)
+* ...以及其他同期的街机和掌机。
+
+我们没有追求“能运行N64”，而是选择了“能完美运行《最终幻想7》”。
+
+---
+
+### 类别二：“厨房”相关 (关于性能和 WaffleOS)
+
+**Q4：好吧，我必须问：为什么 S1 *不能* 玩 N64 / DC / PSP？隔壁的“性能怪兽”们都可以！**
+
+**A：** 这是一个**“选择”**，而不是“妥协”。
+
+我们 100% 可以堆一块更贵、更热、更耗电的芯片，然后“挣扎着”去模拟 N66/DC。但结果呢？
+
+你会得到一个“凑合”的体验：游戏时卡时流畅、声音爆音、按键配置一团糟，而且为了这 10% “能玩”的游戏，你牺牲了 90% 游戏的“舒适度”（比如续航和稳定性）。
+
+**我们拒绝这种“虚假”的性能。**
+
+我们选择把所有的“算力”和“优化”，都投入到 PS1 及以下平台的“100% 完美体验”上。
+
+**我们宁愿给你一个“满屏、满速”的《恶魔城·月下夜想曲》，也不愿给你一个“卡顿、带黑边”的《007黄金眼》。**
+
+**Q5：WaffleOS 听起来很棒，但它只是一个“主题”或“皮肤”吗？**
+
+**A：** **绝对不是。** WaffleOS 是 S1 的“灵魂”，它是一个基于 Linux 深度定制的、完整的操作系统。
+
+“皮肤”只是换了张“壁纸”。而 WaffleOS 是从**“底层逻辑”**上为你“消灭摩擦”：
+1.  **“智能管家” (Smart Match)：** 它在后台自动匹配“完美”的模拟方案。这是“皮肤”做不到的。
+2.  **“魔法书签” (Bookmark)：** 简单、防呆的即时存档/读档。
+3.  **“安全网” (Safety Net)：** 随时按下电源键 = 自动保存 + 安全关机。
+4.  **深度优化：** 我们重写了驱动，让 S1 的“待机”几乎不耗电，让“唤醒”比手机还快。
+
+WaffleOS 是我们“舒适”承诺的**“技术护城河”**。
+
+**Q6：我是一个“康复中”的折腾爱好者。我*真的*一点都不能“折腾”WaffleOS 吗？**
+
+**A：** (笑) 我们懂你。
+
+坦白说，S1 是一个“闭环厨房”体验。我们不开放“高级设置”或“系统访问”，因为这会破坏我们为“99%”的舒适体验所做的一致性保证。
+
+如果你*真的*享受“打开引擎盖”的乐趣，我们坦诚地建议，那些“性能怪兽”（我们称之为“宜家套装”）可能更适合你。
+
+**S1 是为你“不想折腾”的那一天而准备的。** 它是你的“避难所”，不是你的“新工作”。
+
+---
+
+### 类别三：“打包盒”相关 (关于硬件和配件)
+
+**Q7：S1 的 4:3 屏幕是不是有点“过时”？为什么不用 16:9 的宽屏？**
+
+**A：** **“过时”？不，我们称之为“原汁原味”！**
+
+你童年所有的经典游戏（PS1, SNES, GBA...）**全都是 4:3 的**。
+
+如果你用 16:9 的“主流”屏幕去玩，你只能得到两种“糟糕”的体验：
+1.  画面被强行拉伸，马里奥变成个“胖子”。
+2.  画面两侧出现两条巨大的、分散注意力的“黑边”。
+
+我们“不计成本”地定制了这块 4:3 的高品质 IPS 屏，就是为了一个目的：
+**给你一个“满屏的童年”，不多一寸，不少一寸。**
+
+**Q8：S1 的“真实”续航到底多久？**
+
+**A：** 我们不玩“实验室数据”。在“正常游玩”（有声音、中等亮度）的情况下，S1 内置的 3500mAh 电池可以**稳定提供 6-8 小时**的“舒适游戏时间”。
+
+这足够你打完一次《魂斗罗》，或者支撑你从上海飞到东京。它不会在你玩到“最终BOSS”时背叛你。
+
+**Q9：我购买 S1 时，盒子里都有什么？我需要自己买 SD 卡吗？**
+
+**A：** 我们痛恨“开箱后发现还缺东西”的感觉。
+
+当你打开 S1 的“早餐盒”，你会得到：
+1.  Curly Waffle S1 主机 (有“奶油白”和“焦糖棕”可选)
+2.  一根高品质的 USB-C 充电/数据线
+3.  一份“零废话”的快速上手指南
+
+**你不需要购买任何 SD 卡！** 一张高速、高品质、**已预装 WaffleOS** 的 MicroSD 卡，已经**“安全地”内置**在 S1 的卡槽里了。
+
+你开箱、开机、拖入游戏，**立刻开玩**。
+
+---
+
+### 类别四：“售后服务” (吃得放心)
+
+**Q10：如果我的 S1 出了问题，保修政策“折腾”吗？**
+
+**A：** 我们的售后和我们的产品一样：**拒绝折腾。**
+
+我们提供**一年的“免折腾”保修**。在一年内，任何非人为损坏（比如你自己把它扔进华夫饼机里）导致的质量问题，我们都会提供快速换新或维修服务。
+
+**我们有“真人”客服。** 你不会和“机器人”绕圈子。你是一个“倦怠的折腾者”，你值得被“真人”温柔对待。
+
+---
+**还有疑问吗？**
+请随时联系我们的“服务员”。但我们希望，这份菜单已经让你足够“安心”。
+
+**准备好停止折腾，开始享受了吗？**
+
+---
+---
+
+
+### Your 'Order' Questions (FAQ): Honest Answers About the S1
+
+Welcome to the Curly Waffle counter!
+
+We know that when a "new menu" shows up, you're going to have questions. That's perfectly normal. In a world full of "spec wars" and "tinkering tutorials," our philosophy of "comfort" can seem a little... different.
+
+Don't worry. We've prepared this list of "honest answers" to cover everything you want to know about the S1. We don't use "marketing jargon." We just use plain, simple English.
+
+---
+
+### Category 1: About the "Menu" (Games & Experience)
+
+**Q1: My #1 concern: How do I get games onto the S1? Is it a hassle?**
+
+**A:** This is our favorite answer to give: **It is the most "hassle-free" experience you will probably ever have.**
+
+We have eliminated all the "config" work for you. You don't need to format SD cards, create folders, or know anything about computers.
+
+**It's a two-step process:**
+1.  **Plug In:** Connect your S1 to your computer (Windows, Mac, or Linux) with the included USB-C cable.
+2.  **Drag & Drop:** Your S1 will appear as a "magic" drive called **"My Games."** Just drag and drop your game files (e.g., `.nes`, `.sfc`, `.gba`, `.bin`) into it.
+
+**— YOU ARE DONE —**
+
+Unplug the cable. Turn on the S1. The WaffleOS "Butler" will automatically find your games, sort them, and download the beautiful box art for you.
+
+You do not need to "scrape box art." You do not need to "set paths." You do not need to "choose emulators." **Your only job is to "drag." We do all the rest.**
+
+**Q2: Does the S1 come with any games pre-loaded?**
+
+**A:** **No. The S1 is a "freshly baked," clean device.**
+
+Out of respect for copyright and intellectual property, we do not pre-load any games (ROMs) that we do not own. The S1 is a "console"—an "ultimate player"—designed to let you **comfortably** enjoy the game collection you *already* own.
+
+**Q3: Which systems can the S1 *actually* play "perfectly"?**
+
+**A:** Our philosophy is **"Zero compromise, only perfection."**
+
+The S1 is not a "jack-of-all-trades." It's a "specialist." It was designed from the ground up to play 8-bit to 32-bit classics **flawlessly**, with **full-speed, perfect-audio** emulation.
+
+This includes (but is not limited to):
+* PlayStation 1 (PS1)
+* Game Boy / Game Boy Color (GB/GBC)
+* Game Boy Advance (GBA)
+* Super Nintendo (SFC / SNES)
+* NES / Famicom
+* Sega Genesis / Mega Drive
+* ...and many other contemporary arcade and handheld systems.
+
+We didn't chase "kinda-playable N64." We chose "flawless *Final Fantasy VII*."
+
+---
+
+### Category 2: About the "Kitchen" (Performance & WaffleOS)
+
+**Q4: Okay, I have to ask: Why *can't* the S1 play N64 / Dreamcast / PSP? The "performance monsters" can!**
+
+**A:** This was a **"choice,"** not a "compromise."
+
+We 100% could have used a more expensive, hotter, and more battery-hungry chip to "struggle" with N64/DC emulation. But what's the result?
+
+You get a "compromise" experience: stuttering framerates, audio pops, messy control mapping, and a *worse* experience (e.g., lower battery life) for the 90% of other games, all just to "kind of" play that 10% of N64 titles.
+
+**We reject "compromise."**
+
+We chose to dedicate *all* our power and optimization to ensuring a **100% perfect experience** for the PS1-and-below library.
+
+**We would rather give you a "full-screen, full-speed" *Castlevania: SOTN* than a "stuttering, black-barred" *GoldenEye*.**
+
+**Q5: WaffleOS sounds great, but is it just a "theme" or "skin"?**
+
+**A:** **Absolutely not.** WaffleOS is the *soul* of the S1. It is a complete, deeply customized Operating System built on Linux.
+
+A "skin" just changes the wallpaper. WaffleOS re-builds the *entire experience* to remove friction:
+1.  **"Smart Butler":** Automatically matches the *perfect* emulator settings in the background. A "skin" can't do that.
+2.  **"Magic Bookmark":** Our simple, foolproof instant save/load system.
+3.  **"The Safety Net":** Powering off at *any* time = automatic save + safe shutdown.
+4.  **Deep Optimization:** We re-wrote the drivers so "sleep mode" sips almost zero power, and "wake" is faster than your phone.
+
+WaffleOS is the "technical moat" that makes our "comfort" promise possible.
+
+**Q6: I'm a "tinkerer in recovery." Can I *really* not tinker with WaffleOS at all?**
+
+**A:** (Heh) We see you.
+
+To be honest, the S1 is a "closed kitchen" experience. We don't provide access to advanced settings or the root system because it would break the "it just works" promise we've made to 99% of our users.
+
+If you *truly* enjoy getting under the hood, we honestly suggest that one of the "IKEA kit" handhelds might make you happier.
+
+**The S1 is for the days when you *don't* want to tinker.** It's your "sanctuary," not your "new project."
+
+---
+
+### Category 3: About the "To-Go Box" (Hardware & Accessories)
+
+**Q7: Isn't a 4:3 screen "outdated"? Why not use a 16:9 widescreen?**
+
+**A:** **"Outdated"? No. We call it "authentic."**
+
+*All* of the classic games you love (PS1, SNES, GBA...) were **designed in 4:3.**
+
+If you play them on a "modern" 16:9 screen, you get two terrible choices:
+1.  The image is stretched, and Mario looks fat.
+2.  The image has two giant, distracting "black bars" on the sides.
+
+We **expensively** and **intentionally** sourced a premium 4:3 IPS screen for one reason:
+**To give you a "full-screen childhood," with no stretching and no black bars.**
+
+**Q8: What's the *real* battery life?**
+
+**A:** We don't play "lab-tested" number games. In "real-world" use (sound on, medium brightness), the S1's 3500mAh battery delivers a **rock-solid 6-8 hours** of "comfort-gaming."
+
+That's enough for a *Metroid* marathon, or a flight from New York to L.A. It won't die on you at the final boss.
+
+**Q9: What's in the box? Do I need to buy my own SD card?**
+
+**A:** We hate that "oh, I still need to buy..." feeling.
+
+When you open your S1 "breakfast box," you will get:
+1.  Your Curly Waffle S1 ("Cream White" or "Caramel Brown")
+2.  A high-quality USB-C charging & data cable
+3.  A "zero-fluff" Quick Start Guide
+
+**YOU DO NOT NEED TO BUY AN SD CARD.** A high-speed, high-quality, **WaffleOS pre-installed** MicroSD card is already **securely pre-installed** in the S1's slot.
+
+You open the box, turn it on, add games, and **play immediately.**
+
+---
+
+### Category 4: "Peace of Mind" (Warranty & Support)
+
+**Q10: What if I have a problem? Is your warranty a "hassle"?**
+
+**A:** Our support policy is the same as our product: **Zero hassle.**
+
+We offer a **one-year "No-Tinker" warranty.** For one full year, any quality defect not caused by... well, *you* (e.g., don't drop it in a real waffle maker), we will provide a fast repair or replacement.
+
+**We have real human support.** You will not be stuck in a loop with a chatbot. You are a "burnt-out tinkerer," and you deserve to be treated with "comfort" by a real person.
+
+---
+**Still have questions?**
+Feel free to ask our "waitstaff" (support team) any time. But we hope this menu has given you all the peace of mind you need.
+
+**Ready to stop tinkering and start playing?**
